@@ -48,11 +48,11 @@
     <img src="https://img.icons8.com/plasticine/100/000000/domain.png" width="45" alt="Website" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/fadjar.rafi/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/fadjar.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="45" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-⭐️ From [fadjarrafi](https://github.com/fadjardev)
+⭐️ From [fadjardev](https://github.com/fadjardev)
