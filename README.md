@@ -27,10 +27,10 @@
 
 <h3>✍️ Latest Writing</h3>
 
-- [CORS: What It Is](https://fadjarrafi.my.id/writing/en/cors-what-it-is)
-- [ES Modules](https://fadjarrafi.my.id/writing/en/es-module)
-- [Activation Functions in Deep Learning](https://fadjarrafi.my.id/writing/en/activation-function-in-deep-learning)
-- [Simple Linear Regression](https://fadjarrafi.my.id/writing/en/simple-linear-regression)
+- [Caching: When to Use It, and When Not To](https://fadjarrafi.my.id/writing/en/caching)
+- [Hydration](https://fadjarrafi.my.id/writing/en/hydration)
+- [Developers Need to Speak Business Too](https://fadjarrafi.my.id/garden/thoughts/en/business-language-for-developers)
+- [My Experience on Math](https://fadjarrafi.my.id/garden/thoughts/en/my-experience-on-math)
 
 
 <h3>🤝🏻 Connect with Me</h3>
