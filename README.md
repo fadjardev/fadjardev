@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; **Full Stack Developer** at PT. Qhome Sukses Abadi (Qhomemart) & formerly at Square Indonesia
 - 🤖 &nbsp; Built an AI summarisation module using **FastAPI**, **DeepSeek**, and **Qdrant** vector search
-- 🎓 &nbsp; Computer Science graduate from **University of Amikom Yogyakarta** (Cum Laude, IPK 3.65)
+- 🎓 &nbsp; Computer Science graduate from **University of Amikom Yogyakarta**
 - 🌱 &nbsp; Exploring AI/ML integration, modern Web Development, and DevOps
 - ☕ &nbsp; Coffee + metal music = bugs defeated
 
